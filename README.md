@@ -1,7 +1,7 @@
 # 01-Tableu-Project-Comparison of Region Based on Sales
 
 DESCRIPTION:-
-You are a data analyst working for an insurance company. The company is expanding and wants to open new branches in various parts of the world. Your task is to compare various parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio of different countries using the sample insurance dataset and world development indicators dataset.
+The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements.
 
-Objective: 
-Create a dashboard to compare all the parameters mentioned above for different countries, to strategize market penetration and to target new customers.
+Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
+
